@@ -1,1 +1,2 @@
-# 123190091_ProyekAkhir_SentimentAnalisisNaiveBayes
+#Rafi Khairuna Wibisono 
+#123190091_ProyekAkhir_SentimentAnalisisNaiveBayes
